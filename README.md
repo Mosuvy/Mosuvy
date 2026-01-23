@@ -41,6 +41,8 @@ but because good engineers don’t stop sharpening their tools.
 
 ## 🧰 Tools & Environment
 
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-Code_Hosting-181717?style=flat&logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=flat&logo=visualstudiocode&logoColor=white)  
 ![Android Studio](https://img.shields.io/badge/Android_Studio-IDE-3DDC84?style=flat&logo=androidstudio&logoColor=white)  
 ![Azure Data Studio](https://img.shields.io/badge/Azure_Data_Studio-Database-0078D4?style=flat&logo=microsoftazure&logoColor=white)  
