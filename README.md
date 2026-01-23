@@ -3,8 +3,8 @@
 Software developer with a strong interest in **backend systems**,  
 while staying comfortable across web and mobile development.
 
-I’m continuously learning, not out of uncertainty,  
-but because good engineers don’t stop sharpening their tools.
+> I’m continuously learning not out of uncertainty,  
+> but because good engineers don’t stop sharpening their tools.
 
 ---
 
