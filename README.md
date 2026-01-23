@@ -35,10 +35,17 @@ but because good engineers don’t stop sharpening their tools.
 
 ## 🧰 Tools & Environment
 
-![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-IDE-3DDC84?style=flat&logo=androidstudio&logoColor=white)
-![Azure Data Studio](https://img.shields.io/badge/Azure_Data_Studio-Database-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=flat&logo=visualstudiocode&logoColor=white)  
+![Android Studio](https://img.shields.io/badge/Android_Studio-IDE-3DDC84?style=flat&logo=androidstudio&logoColor=white)  
+![Azure Data Studio](https://img.shields.io/badge/Azure_Data_Studio-Database-0078D4?style=flat&logo=microsoftazure&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat&logo=docker&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mosuvy&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mosuvy&layout=compact&hide_border=true)
 
 ---
 
