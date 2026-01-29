@@ -58,6 +58,3 @@ while staying comfortable across web and mobile development.
 - Still learning — intentionally, continuously, and seriously
 
 ---
-
-## 📬 Contact
-- GitHub: https://github.com/Mosuvy
