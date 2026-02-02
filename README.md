@@ -10,7 +10,8 @@ while staying comfortable across web and mobile development.
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mosuvy&show_icons=true&theme=github_dark&hide_border=true&format=png" />
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=Mosuvy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mosuvy&layout=compact&langs_count=8&theme=algolia)
 
 ---
 
